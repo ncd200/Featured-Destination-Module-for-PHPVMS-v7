@@ -1,9 +1,8 @@
-# CHANGELOG
-V 1.1
-- FIXED Unlimited Loop on the failsave
-- Added a Fallback Image
-- Removed AeroCore Items
+**CHANGELOG**
 
+Fixed Database problem
+Fixed Remove Image
+Fixed Image Upload
 
 
 
